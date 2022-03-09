@@ -12,7 +12,7 @@ Connecting the Tanto is very simple:
 Next, just plug one end of the power cable for the included power supply into your outlet and the other end into the transformer. 
 
 <p align="center">
- <img src="assets/Tanto7.jpg">
+ <img src="assets/Tanto07.jpg">
 </p>
 
-The Tanto will automatically power on and start the initial configuration process. Now you are ready to login to the Tanto through the web interface. 
+The Tanto will automatically power on and start the initial configuration process. Ensure that the power is not interrupted during the automatic initial configuration process. Now you are ready to login to the Tanto through the web interface. 
