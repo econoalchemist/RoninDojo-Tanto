@@ -15,8 +15,8 @@ The Tanto ships in an inconspicuous brown box with no logos, stickers, or anythi
 You can flip the Tanto over and apply the adhesive rubber feet to the four corners of the bottom plate. 
 
  <p align="center">
-  <img width="450" src="assets/Tanto04.jpg">
-  <img width="450" src="assets/Tanto05.jpg">
+  <img width="450" src="assets/Tanto04_1.jpg">
+  <img width="450" src="assets/Tanto05_1.jpg">
  </p>
  
 Then you are ready to connect the Tanto.  
