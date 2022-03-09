@@ -15,4 +15,4 @@ Next, just plug one end of the power cable for the included power supply into yo
  <img src="assets/Tanto07.jpg">
 </p>
 
-The Tanto will automatically power on and start the initial configuration process. Ensure that the power is not interrupted during the automatic initial configuration process. Now you are ready to login to the Tanto through the web interface. 
+The Tanto will automatically power on and start the initial configuration process. Ensure that the power is not interrupted during the automatic initial configuration process. This process takes roughly 10 minutes and you will notice the red light illuminate underneath the Tanto once this process is finished. Then, you will be ready to login to the Tanto through the web interface. 
