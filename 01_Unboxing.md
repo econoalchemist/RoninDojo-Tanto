@@ -8,8 +8,8 @@ The Tanto ships in an inconspicuous brown box with no logos, stickers, or anythi
  Inside the brown box are two black boxes, these contain everything that is included. 
  
  <p align="center">
-  <img width="450" src="assets/Tanto01.jpg">
-  <img width="450" src="assets/Tanto02_1.jpg">
+  <img width="450" src="assets/Tanto01_1.jpg">
+  <img width="450" src="assets/Tanto02.jpg">
  </p>
  
 You can flip the Tanto over and apply the adhesive rubber feet to the four corners of the bottom plate. 
