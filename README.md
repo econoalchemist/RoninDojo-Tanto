@@ -28,4 +28,24 @@ All together the Tanto includes:
 
 <p align="center">
   <img src="assets/Tanto03.jpg">
+  </p>
+  
+<p align="center">
+  <img width="450" src="assets/IMG_5983.jpg">
+  <img width="450" src="assets/IMG_E6007.jpg">
  </p>
+ 
+ <p align="center">
+  <img width="450" src="assets/IMG_6027.jpg">
+  <img width="450" src="assets/IMG_6028.jpg">
+ </p>
+ 
+ <p align="center">
+  <img width="450" src="assets/IMG_E6015.jpg">
+  <img width="450" src="assets/IMG_E6016.jpg">
+ </p> 
+ 
+  <p align="center">
+  <img width="450" src="assets/IMG_E6017.jpg">
+  <img width="450" src="assets/IMG_E6020.jpg">
+ </p> 
