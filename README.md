@@ -31,21 +31,21 @@ All together the Tanto includes:
   </p>
   
 <p align="center">
-  <img width="450" src="assets/IMG_5983.jpg">
-  <img width="450" src="assets/IMG_E6007.jpg">
+  <img width="450" src="assets/IMG_5983.JPG">
+  <img width="450" src="assets/IMG_E6007.JPG">
  </p>
  
  <p align="center">
-  <img width="450" src="assets/IMG_6027.jpg">
-  <img width="450" src="assets/IMG_6028.jpg">
+  <img width="450" src="assets/IMG_6027.JPG">
+  <img width="450" src="assets/IMG_6028.JPG">
  </p>
  
  <p align="center">
-  <img width="450" src="assets/IMG_E6015.jpg">
-  <img width="450" src="assets/IMG_E6016.jpg">
+  <img width="450" src="assets/IMG_E6015.JPG">
+  <img width="450" src="assets/IMG_E6016.JPG">
  </p> 
  
   <p align="center">
-  <img width="450" src="assets/IMG_E6017.jpg">
-  <img width="450" src="assets/IMG_E6020.jpg">
+  <img width="450" src="assets/IMG_E6017.JPG">
+  <img width="450" src="assets/IMG_E6020.JPG">
  </p> 
