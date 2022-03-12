@@ -49,7 +49,7 @@ Once you are at your dashboard, you can see the progress of the Bitcoin Initial 
   <img src="assets/RoninUI06.png">
 </p>
 
-Some other vitals you can monitor are uptime, version, temperature, CPU load, and memory usage. Let this process run for a couple of days. Tanto will log you out automatically after some idle time but the processes continue to run in thebackground. 
+Some other vitals you can monitor are uptime, version, temperature, CPU load, and memory usage. Let this process run for a couple of days. Tanto will log you out automatically after some idle time but the processes continue to run in the background. 
 
 The IBD took a total of 2 days, 21 hours, 49 minutes in this demonstration. 
 
@@ -57,7 +57,7 @@ The IBD took a total of 2 days, 21 hours, 49 minutes in this demonstration.
   <img src="assets/RoninUI07.png">
 </p>
 
-Now that the entire Bitcoin blockchain has been downloaded, it needs to be indexed so that it is searchable. The indexing process begins automatically once the IBD is finished, this process can take an additinal day. You may notice that the Indexer status in the lower right-hand corner remains on 0%, don't panic! Simply navigate to the `Logs` option on the left-hand side menu and then the `Indexer` tab. You should see something like this screenshot below where the blocks are getting indexed in chunks of 2,000. Just let this process run to completion, again this can take another 24 hours. 
+Now that the entire Bitcoin blockchain has been downloaded, it needs to be indexed so that it is searchable. The indexing process begins automatically once the IBD is finished, this process can take an additional day. You may notice that the Indexer status in the lower right-hand corner remains on 0%, don't panic! Simply navigate to the `Logs` option on the left-hand side menu and then the `Indexer` tab. You should see something like this screenshot below where the blocks are getting indexed in chunks of 2,000. Just let this process run to completion, again this can take another 24 hours. 
 
 <p align="center">
   <img src="assets/RoninUI08.png">
@@ -69,7 +69,7 @@ Once the Indexer has caught up to the latest block height, you should see both I
   <img src="assets/RoninUI09.png">
 </p>
 
-You can click on `Manage` in the ower left-hand corner of the `Dojo` window and this will bring up the QR code that you can use to connect your Samourai Wallet. Setting up Samourai Wallet will be covered in the next section. Make sure to toggle `Display values` to make the QR codes legible. The other QR code is for connecting your own BTC-RPC explorer. The Explorer provides a way to use your own Dojo to feed data to a full fledged Bitcoin blockchain explorer over Tor. Copy the .onion URL & password for the Explorer, paste into Tor Browser, use `ronindojo` for the username, and bookmark page. 
+You can click on `Manage` in the lower left-hand corner of the `Dojo` window and this will bring up the QR code that you can use to connect your Samourai Wallet. Setting up Samourai Wallet will be covered in the next section. Make sure to toggle `Display values` to make the QR codes legible. The other QR code is for connecting your own BTC-RPC explorer. The Explorer provides a way to use your own Dojo to feed data to a full fledged Bitcoin blockchain explorer over Tor. Copy the .onion URL & password for the Explorer, paste into Tor Browser, use `ronindojo` for the username, and bookmark page. 
 
 <p align="center">
   <img src="assets/RoninUI10.png">
