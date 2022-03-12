@@ -69,8 +69,21 @@ Once the Indexer has caught up to the latest block height, you should see both I
   <img src="assets/RoninUI09.png">
 </p>
 
-You can click on `Manage` in the ower left-hand corner of the `Dojo` window and this will bring up the QR code that you can use to connect your Samourai Wallet. The other QR code is for connecting your own BTC-RPC explorer. The Explorer provides a way to use your Dojo to feed data to a full fledged Bitcoin blockchain explorer. You can even log into your RoninDojoUI from your mobile phone with the Tor Browser. Then copy the .onion URL & password for the Explorer, paste into Tor Browser, use `ronindojo` for the username, paste the password, bookmark page. 
+You can click on `Manage` in the ower left-hand corner of the `Dojo` window and this will bring up the QR code that you can use to connect your Samourai Wallet. Setting up Samourai Wallet will be covered in the next section. Make sure to toggle `Display values` to make the QR codes legible. The other QR code is for connecting your own BTC-RPC explorer. The Explorer provides a way to use your own Dojo to feed data to a full fledged Bitcoin blockchain explorer over Tor. Copy the .onion URL & password for the Explorer, paste into Tor Browser, use `ronindojo` for the username, and bookmark page. 
 
 <p align="center">
   <img src="assets/RoninUI10.png">
+</p>
+
+You can even log into your RoninDojoUI from your mobile phone with the Tor Browser. From the dashboard, click on `Manage` in the lower left-hand corner of the `RoninDojo` window. This will bring up a QR code that you can scan to follow the .onion link to your RoninDojo UI. Then enter your RoninDojo UI password and bookmark this page. 
+
+<p align="center">
+  <img src="assets/RoninUI11.png">
+</p>
+
+Once you are logged into your RoninDojo UI on mobile, then you can just copy/paste the .onion URL and password for the Explorer into your Tor browser as well, then using `ronindojo` as a username again, you can book mark this page as well and now you have a mobile block explorer that uses your own Dojo as a backend and communicates with it via Tor. 
+
+<p align="center">
+  <img src="assets/RoninUI12.png">
+  <img src="assets/RoninUI13.png">
 </p>
