@@ -25,10 +25,10 @@ Simply install the application and follow the on-screen system prompts. Once you
 Next, you will be greeted with a helpful on-boarding presentation. 
 
 <p align="center">
-  <img width="250" src="assets/SW02.png">
-  <img width="250" src="assets/SW03.png">
-  <img width="250" src="assets/SW04.png">
-  <img width="250" src="assets/SW05.png">
+  <img width="249" src="assets/SW02.png">
+  <img width="249" src="assets/SW03.png">
+  <img width="249" src="assets/SW04.png">
+  <img width="249" src="assets/SW05.png">
 </p>
 
 Next, you will be asked to choose a directory to store your encrypted wallet backup file. Then allow system access. 
@@ -62,13 +62,13 @@ Next you will be asked to create a passphrase. Using a strong, high-entropy pass
 The next screen will present your 12-word seed phrase. Do not share these words with anyone for any reason. These 12-words are a human-readible representation of your Bitcoin private key. Anyone who gains access to these words and passphrase can take your bitcoin. Do not take a screenshot of these words. Do not take a picture of these words. Do not save them in a text file or other digital format. Make sure you write these down in order and then secure this seed phrase like it was cash, gold, or jewelry. Many people choose to stamp their wallet recovery information (seed phrase and passphrase) into metal that can withstand extreme environments such as fire and flooding. You can find further information on this topic [here](https://www.econoalchemist.com/post/backup).
 
 <p align="center">
-  <img width="400" src="assets/SW14.png">
+  <img width="400" src="assets/SW14.JPG">
 </p>  
 
 Then you will be asked to confirm the passphrase you enetered and then create a PIN. The PIN will be required to access the Samourai Wallet application, use a strong PIN that is not easy to guess or the same as your primary phone access PIN. 
 
 <p align="center">
-  <img width="350" src="assets/SW15.png">
+  <img width="350" src="assets/SW15.JPG">
   <img width="350" src="assets/SW16.png">
 </p>
 
