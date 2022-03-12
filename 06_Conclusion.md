@@ -1,5 +1,5 @@
 # Conclusion
-Now you have seen how easy it is to connect and configure your own Bitcoin full node, how to install and configure a mobile Samourai Wallet, and how to connect them both to a desktop Whirlpool client. With this kind of setup you are able to bring the power of a ZeroLink CoinJoin implementation with you in your pocket while communicating back to your own node at home over Tor. You can also connect with peers to make collaborative transactions that preserve the anonymity gained in Whirlpool and break on-chain hueristics. 
+Now you have seen how easy it is to connect and configure your own Bitcoin full node, how to install and configure a mobile Samourai Wallet, and how to connect them both to a desktop Whirlpool client. With this kind of setup you are able to bring the power of a ZeroLink CoinJoin implementation with you in your pocket while communicating back to your own node at home over Tor. You can also connect with peers to make collaborative transactions that preserve the anonymity gained in Whirlpool and break on-chain heuristics. 
 
 Every Whirlpool transaction has 5 inputs and 5 equal-sized outputs. There is nothing about any particular output that makes it any more likely to belong to any particular input than any of the other outputs. 
 
