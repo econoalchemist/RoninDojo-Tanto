@@ -30,13 +30,13 @@ With the Whirlpool service started, and back at the main menu, now navigate to `
  <img width="450" src="assets/RoninUI20.png">
 </p>
 
-This is where you can retrieve the .onion URL you need to use in the Whirlpool client Graphical User Interface (GUI) to getit configured. Highlight this URL and use `ctrl+shift+c` to copy it to your clipboard. 
+This is where you can retrieve the .onion URL you need to use in the Whirlpool client Graphical User Interface (GUI) to get it configured. Highlight this URL and use `ctrl+shift+c` to copy it to your clipboard. 
 
 <p align="center">
  <img src="assets/RoninUI21.png">
 </p>
 
-Now open the Whirlpool client application you installed earlier. Select the `Advanced: remote CLI` option and where it says `https://my-cli-host:8899` paste the .onion URL from your RoninDojo terminal. Depending on whether or not your are running a Tor deamon or just the Tor browser, you may need to select either `9050` or `9150` for appending the Tor proxy. Leave the API key blank, this will automatically be handled once initialized. Then click on `Connect`. 
+Now open the Whirlpool client application you installed earlier. Select the `Advanced: remote CLI` option and where it says `https://my-cli-host:8899` paste the .onion URL from your RoninDojo terminal. Depending on whether or not your are running a Tor daemon or just the Tor browser, you may need to select either `9050` or `9150` for appending the Tor proxy. Leave the API key blank, this will automatically be handled once initialized. Then click on `Connect`. 
  
 <p align="center">
  <img src="assets/RoninUI22.png">
