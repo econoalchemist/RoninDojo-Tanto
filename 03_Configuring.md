@@ -84,6 +84,6 @@ You can even log into your RoninDojoUI from your mobile phone with the Tor Brows
 Once you are logged into your RoninDojo UI on mobile, then you can just copy/paste the .onion URL and password for the Explorer into your Tor browser as well, then using `ronindojo` as a username again, you can book mark this page as well and now you have a mobile block explorer that uses your own Dojo as a backend and communicates with it via Tor. 
 
 <p align="center">
-  <img src="assets/RoninUI12.png">
-  <img src="assets/RoninUI13.png">
+  <img width="350" src="assets/RoninUI12.png">
+  <img width="350" src="assets/RoninUI13.png">
 </p>
