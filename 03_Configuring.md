@@ -63,3 +63,14 @@ Now that the entire Bitcoin blockchain has been downloaded, it needs to be index
   <img src="assets/RoninUI08.png">
 </p>
 
+Once the Indexer has caught up to the latest block height, you should see both Indexer and Dojo reporting 100% synchronized.
+
+<p align="center">
+  <img src="assets/RoninUI09.png">
+</p>
+
+You can click on `Manage` in the ower left-hand corner of the `Dojo` window and this will bring up the QR code that you can use to connect your Samourai Wallet. The other QR code is for connecting your own BTC-RPC explorer. The Explorer provides a way to use your Dojo to feed data to a full fledged Bitcoin blockchain explorer. You can even log into your RoninDojoUI from your mobile phone with the Tor Browser. Then copy the .onion URL & password for the Explorer, paste into Tor Browser, use `ronindojo` for the username, paste the password, bookmark page. 
+
+<p align="center">
+  <img src="assets/RoninUI10.png">
+</p>
