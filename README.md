@@ -11,7 +11,7 @@ Additionally, the Tanto includes a the RoninSteel stainless steel seed phrase ba
 
 All together the Tanto includes:
 
-- Aluminium case & bottom plate
+- Aluminum case & bottom plate
 - Ronin X4-90 adaptor
 - LED stripe with GPIO connectors
 - Thermo pad, rubber feet, screws, & hex wrench
