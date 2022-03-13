@@ -47,7 +47,7 @@ Now open the Whirlpool client application you installed earlier. Select the `Adv
 Give the GUI some time, Tor connections can take a little while. You may need to try this a couple times before the connection is made. But once the connection is made, you will be presented with a screen asking you to input the Whirlpool pairing payload from your Samourai Wallet. In Samourai Wallet, click on the 3-dot menu in the upper right-hand corner and select `Settings` > `Transactions` > `Pair to Whirlpool GUI` at the bottom. This will display a QR code that contains your Whirlpool payload. Simply click on the QR code option in the desktop GUI and this should launch your webcam then hold up the QR code on your mobile so the camera can scan it. 
 
 <p align="center">
- <img src="assets/RoninUI23.png">
+ <img src="assets/RoninUI23_1.png">
 </p> 
 
 Once received, then click on `Initialize GUI`.
