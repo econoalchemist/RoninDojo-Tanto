@@ -79,3 +79,5 @@ Finally, you will be presented with your unique PayNym, you can claim it so that
   <img width="300" src="assets/SW18.png">
   <img width="300" src="assets/SW19.png">
 </p>
+
+Now you have a mobile Bitcoin wallet with built in privacy tools that communicates with your very own self-hosted full Bitcoin node over Tor. Congratulationsm, this is a major step along the path to sovereignty. 
