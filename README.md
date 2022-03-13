@@ -5,7 +5,7 @@ If you are not running your own Bitcoin node then you are trusting someone else'
   <img src="assets/titleimage.png">
  </p>
  
-The Tanto comes pre assembled and pre-loaded with the RoninDojo software, there is no need to build a material list and order several pieces of hardware from multiple vendors. The Tanto features a milled aluminium case and the fanless design makes this the quietest node you'll ever run. The outer case is painted black with a sleek RoninDojo logo in red. Inside the case, the Tanto is powered by a RockPro64 board, an interface card, and an M.2 NVMe 1TB SSD. The Tanto also includes a 32GB microSD card pre-loaded with the RoninDojo software image and power supply. Everything you need to get started is included. 
+The Tanto comes pre assembled and pre-loaded with the RoninDojo software, there is no need to build a material list and order several pieces of hardware from multiple vendors. The Tanto features a milled aluminum case and the fanless design makes this the quietest node you'll ever run. The outer case is painted black with a sleek RoninDojo logo in red. Inside the case, the Tanto is powered by a RockPro64 board, an interface card, and an M.2 NVMe 1TB SSD. The Tanto also includes a 32GB microSD card pre-loaded with the RoninDojo software image and power supply. Everything you need to get started is included. 
 
 All together the Tanto includes:
 
