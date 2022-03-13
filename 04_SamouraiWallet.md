@@ -7,7 +7,7 @@ This section will demonstrate how to install and setup a new [Samourai Wallet](h
 - Stonewall, a post-mix spending tool that breaks on-chain heuristics
 - StonewallX2, a post-mix spending tool that looks identical to Stonewall on-chain but is actually made with two peers
 - Stowaway, a post-mix spending tool that obfuscates the amount being spent
-- Ricochet, a post-mix spending tool that add additional hops between the final payment destination
+- Ricochet, a post-mix spending tool that adds additional hops between the final payment destination
 - Advanced coin control
 - Seperate wallets for deposit, pre-mix, & post-mix bitcoin
 
@@ -45,18 +45,18 @@ Next, you can toggle on the option to enable Tor. Then toggle on the option to c
   <img width="350" src="assets/SW09.png">
 </p>
 
-This is where you want to select `Manage` in the lower left-hand corner of the `Dojo` window in your RoninDojo UI dashboard. Then scan the `Samourai Dojo` QR code from your mobile device. Once the details are received by the application, press the `Create a new wallet` button in Samourai Wallet. Or if you have a wallet to import then select the option to `Restore an existing wallet` instead.  
+This is where you want to select `Manage` in the lower left-hand corner of the `Dojo` window in your RoninDojo UI dashboard. Make sure you have toggled on visibility. Then scan the `Samourai Dojo` QR code from your mobile device. Once the details are received by the application, press the `Create a new wallet` button in Samourai Wallet. Or if you have a wallet to import then select the option to `Restore an existing wallet` instead.  
 
 <p align="center">
   <img width="350" src="assets/SW10.png">
   <img width="350" src="assets/SW11.png">
 </p>
 
-Next you will be asked to create a passphrase. Using a strong, high-entropy passphrase will help protect your bitcoin in the event that your 12-word seed phrase is ever compromised. Check the box that says you understand that no one can help you recover a lost or forgotten passphrase. Keep in mind too that any passphrase you enter will generate a completely different wallet, so make sure you are writing this down correctly and double checking your work. If you ever need to restore your wallet and you enter a passphrase that is off by even a single character then it will generate a completely different wallet. Then the app will ask you if you would like to download the same recovery sheet that is linked above. 
+Next you will be asked to create a passphrase. Using a strong, high-entropy passphrase will help protect your bitcoin in the event that your 12-word seed phrase is ever compromised. Check the box that says you understand that no one can help you recover a lost or forgotten passphrase. Keep in mind too that any passphrase you enter will generate a completely different wallet, so make sure you are writing this down correctly and double checking your work. If you ever need to restore your wallet and you enter a passphrase that is off by even a single character then it will generate a completely different wallet. Then the app will ask you if you would like to download the [recovery sheet](https://samouraiwallet.com/recovery). 
 
 <p align="center">
   <img width="350" src="assets/SW12.png">
-  <img width="350" src="assets/SW13.png">
+  <img width="350" src="assets/SW13.JPG">
 </p>
 
 The next screen will present your 12-word seed phrase. Do not share these words with anyone for any reason. These 12-words are a human-readable representation of your Bitcoin private key. Anyone who gains access to these words and passphrase can take your bitcoin. Do not take a screenshot of these words. Do not take a picture of these words. Do not save them in a text file or other digital format. Make sure you write these down in order and then secure this seed phrase like it was cash, gold, or jewelry. Many people choose to stamp their wallet recovery information (seed phrase and passphrase) into metal that can withstand extreme environments such as fire and flooding. You can find further information on this topic [here](https://www.econoalchemist.com/post/backup).
