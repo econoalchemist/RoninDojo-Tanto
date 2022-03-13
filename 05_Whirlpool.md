@@ -7,7 +7,9 @@ First, you will need to download the Whirlpool client appropriate for your opera
  <img src="assets/RoninUI14.png">
 </p>
 
-Once you have your Whilpool client installed and your Samourai Wallet connected to your RoninDojo Tanto, you can make an SSH connection to the RoninDojo and start the Whirlpool service. The Whirlpool .onion URL you need is not available through the RoninDojo UI dashboard. The SSH connection can be made with the same username password you used for the RoninDojo UI.
+*In a future release of the RoninDojo UI, the Whirlpool URL will be available from the web interface dashboard and you will no longer need to retrieve this information from the terminal as demonstrated here.*  
+
+Once you have your Whilpool client installed and your Samourai Wallet connected to your RoninDojo Tanto, you can make an SSH connection to the RoninDojo and start the Whirlpool service. The SSH connection can be made with the same username password you used for the RoninDojo UI.
 
 Once connected, navigate to `Samourai Toolkit` > `Whirlpool`:
 
