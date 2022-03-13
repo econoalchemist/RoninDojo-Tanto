@@ -43,7 +43,7 @@ Once there is a green check mark next to each service, you can click on the `Tak
   <img src="assets/RoninUI05.png">
 </p>
 
-Once you are at your dashboard, you can see the progress of the Bitcoin Initial Blockchain Download (IBD) and the vitals of your Tanto. The IBD will take about two days to complete, the Tanto is connecting to other Bitcoin nodes and downloading the entire Bitcoin blockchain all the back to the first block from January 2009. Once the IBD completes, you will have your own full copy of the blockchain and you will use your own copy to verify your transactions against.  
+Once you are at your dashboard, you can see the progress of the Bitcoin Initial Blockchain Download (IBD) and the vitals of your Tanto. The IBD will take about three days to complete, the Tanto is connecting to other Bitcoin nodes and downloading the entire Bitcoin blockchain all the back to the first block from January 2009. Once the IBD completes, you will have your own full copy of the blockchain and you will use your own copy to verify your transactions against.  
 
 <p align="center">
   <img src="assets/RoninUI06.png">
@@ -81,7 +81,7 @@ You can even log into your RoninDojoUI from your mobile phone with the Tor Brows
   <img src="assets/RoninUI11.png">
 </p>
 
-Once you are logged into your RoninDojo UI on mobile, then you can just copy/paste the .onion URL and password for the Explorer into your Tor browser as well, then using `ronindojo` as a username again, you can book mark this page as well and now you have a mobile block explorer that uses your own Dojo as a backend and communicates with it via Tor. 
+Once you are logged into your RoninDojo UI on mobile, then you can just copy/paste the .onion URL and password for the Explorer into your Tor browser as well, then leave the username blank, you can book mark this page as well and now you have a mobile block explorer that uses your own Dojo as a backend and communicates with it via Tor. 
 
 <p align="center">
   <img width="350" src="assets/RoninUI12.png">
