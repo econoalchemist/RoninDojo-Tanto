@@ -13,7 +13,7 @@ This section will demonstrate how to install and setup a new [Samourai Wallet](h
 
 Using Samourai Wallet in connection with your own RoninDojo full node provides you with a power house of private mobile Bitcoin tools. Before you get started, it will help to have a [recovery sheet](https://samouraiwallet.com/recovery) or notebook to write your seed phrase and passphrase information. 
 
-You can download the Samourai Wallet application from an [F-Droid](https://sovereignty.tools/) repo, thier [website](https://samouraiwallet.com/download), or [Google Play Store](https://play.google.com/store/apps/details?id=com.samourai.wallet&hl=en_US&gl=US).
+You can download the Samourai Wallet application from an [F-Droid](https://sovereignty.tools/) repo, their [website](https://samouraiwallet.com/download), or [Google Play Store](https://play.google.com/store/apps/details?id=com.samourai.wallet&hl=en_US&gl=US).
 
 Simply install the application and follow the on-screen system prompts. Once you launch the application, select `MAINNET`.
 
