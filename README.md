@@ -5,15 +5,13 @@ If you are not running your own Bitcoin node then you are trusting someone else'
   <img src="assets/titleimage.png">
  </p>
  
-The Tanto comes pre assembled and pre-loaded with the RoninDojo software, there is no need to build a material list and order several pieces of hardware from multiple vendors. The Tanto features an aluminium case and bottom plate, painted black with a sleek RoninDojo logo in red. Inside the case, the Tanto is powered by a RockPro64 board, an interface card, and an M.2 NVMe 1TB SSD. The Tanto also includes a 32GB microSD card pre-loaded with the RoninDojo software image and power supply. Everything you need to get started is included. 
-
-Additionally, the Tanto includes a the RoninSteel stainless steel seed phrase back up plate. Check out [this guide](https://bitcoinmagazine.com/guides/how-to-bitcoin-seed-backup-roninsteel) to see a demonstration of the RoninSteel.
+The Tanto comes pre assembled and pre-loaded with the RoninDojo software, there is no need to build a material list and order several pieces of hardware from multiple vendors. The Tanto features a milled aluminium case and the fanless design makes this the quietest node you'll ever run. The outer case is painted black with a sleek RoninDojo logo in red. Inside the case, the Tanto is powered by a RockPro64 board, an interface card, and an M.2 NVMe 1TB SSD. The Tanto also includes a 32GB microSD card pre-loaded with the RoninDojo software image and power supply. Everything you need to get started is included. 
 
 All together the Tanto includes:
 
 - Aluminum case & bottom plate
 - Ronin X4-90 adaptor
-- LED stripe with GPIO connectors
+- LED stripe with GPIO connectors (upgraded to multi-color PCB board LED with batch 2)
 - Thermo pad, rubber feet, screws, & hex wrench
 - RockPro board
 - RockPro64 PCIe X4 to M.2/NGFF NVMe SSD interface card
@@ -40,7 +38,7 @@ There are a couple of upgrades in the works for both the Tanto hardware and the 
   <img src="assets/upgrade01.png">
   </p>
 
-As mentioned above, [this guide](https://bitcoinmagazine.com/guides/how-to-bitcoin-seed-backup-roninsteel) demonstrates the RoninSteel but here are a few pictures to give you an idea of what it is and how it works. 
+Additionally, the Tanto includes the RoninSteel stainless steel seed phrase back up plate. Check out [this guide](https://bitcoinmagazine.com/guides/how-to-bitcoin-seed-backup-roninsteel) to see a demonstration of the RoninSteel. Here are a few highlights to give you an idea of what it is and how it works. 
 
 Each RoninSteel kit includes the blank steel plate, multiple template stickers for the seed phrase and passphrase (one for each side of the plate). The characters can be marked with permanent marker first and then stamped with the included spring-loaded punch. 
 
