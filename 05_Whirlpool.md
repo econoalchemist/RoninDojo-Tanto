@@ -79,7 +79,7 @@ If you have received bitcoin that you would like to mix, simply follow these ste
 </p> 
 
 - Select the option to `Mix UTXOs`.  
-- A list of the available UTXOs from your deposit wallet will be displayed. Select the UTXOs you would like to mix and then click on `NEXT`. Keep in mind, if any of these UTXOs have history that you do not want connected on-chain, consider selecting them independant of eachother. 
+- A list of the available UTXOs from your deposit wallet will be displayed. Select the UTXOs you would like to mix and then click on `NEXT`. Keep in mind, if any of these UTXOs have history that you do not want connected on-chain, consider selecting them independent of each other. 
 
 <p align="center">
  <img width="350" src="assets/SW22.png">
