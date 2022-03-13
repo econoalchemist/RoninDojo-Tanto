@@ -94,4 +94,4 @@ If you have received bitcoin that you would like to mix, simply follow these ste
  <img width="350" src="assets/SW25.png">
 </p> 
 
-Now your resulting UTXOs from the TX0 will be registered as available inputs to new mixes, you can now close your mobile Samourai Wallet application and the desktop Whirlpool GUI will keep your resulting mix outputs available as free-riders in future mixing rounds. 
+Now your resulting UTXOs from the TX0 will be registered as available inputs to new mixes, you can now close your mobile Samourai Wallet application and the desktop Whirlpool GUI will keep your resulting mix outputs available as free-riders for future mixing rounds. 
