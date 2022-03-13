@@ -67,3 +67,31 @@ Once signed in, you should be able to see your balances, mixing activity, and th
 <p align="center">
  <img src="assets/RoninUI26.png">
 </p> 
+
+If you have received bitcoin that you would like to mix, simply follow these steps from your mobile Samourai Wallet:
+
+- Select the blue `+` sign and then the `Whirlpool` button. 
+- This will launch the mobile Whirlpool client, again select the `Whirlpool` button. 
+
+<p align="center">
+ <img width="350" src="assets/SW20.png">
+ <img width="350" src="assets/SW21.png">
+</p> 
+
+- Select the option to `Mix UTXOs`.  
+- A list of the available UTXOs from your deposit wallet will be displayed. Select the UTXOs you would like to mix and then click on `NEXT`. Keep in mind, if any of these UTXOs have history that you do not want connected on-chain, consider selecting them independant of eachother. 
+
+<p align="center">
+ <img width="350" src="assets/SW22.png">
+ <img width="350" src="assets/SW23.png">
+</p> 
+
+- Select the cycle priority (miners fee), select the pool size appropriate for the amount you are mixing, and select `REVIEW CYCLE DETAILS`. 
+- You will be presented with the details of the TX0 you are about to make. Select `BEGIN CYCLE` once ready and the transaction will be built and then broadcast from your RoninDojo Tanto to the Bitcoin network. 
+
+<p align="center">
+ <img width="350" src="assets/SW24.png">
+ <img width="350" src="assets/SW25.png">
+</p> 
+
+Now your resulting UTXOs from the TX0 will be registered as available inputs to new mixes, you can now close your mobile Samourai Wallet application and the desktop Whirlpool GUI will keep your resulting mix outputs available as free-riders in future mixing rounds. 
