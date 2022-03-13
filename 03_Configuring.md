@@ -69,7 +69,7 @@ Once the Indexer has caught up to the latest block height, you should see both I
   <img src="assets/RoninUI09.png">
 </p>
 
-You can click on `Manage` in the lower left-hand corner of the `Dojo` window and this will bring up the QR code that you can use to connect your Samourai Wallet. Setting up Samourai Wallet will be covered in the next section. Make sure to toggle `Display values` to make the QR codes legible. The other QR code is for connecting your own BTC-RPC explorer. The Explorer provides a way to use your own Dojo to feed data to a full fledged Bitcoin blockchain explorer over Tor. Copy the .onion URL & password for the Explorer, paste into Tor Browser, use `ronindojo` for the username, and bookmark page. 
+You can click on `Manage` in the lower left-hand corner of the `Dojo` window and this will bring up the QR code that you can use to connect your Samourai Wallet. Setting up Samourai Wallet will be covered in the next section. Make sure to toggle `Display values` to make the QR codes legible. The other QR code is for connecting your own BTC-RPC explorer. The Explorer provides a way to use your own Dojo to feed data to a full fledged Bitcoin blockchain explorer over Tor. Copy the .onion URL & password for the Explorer, paste into Tor Browser, leave the username blank, and bookmark page. 
 
 <p align="center">
   <img src="assets/RoninUI10.png">
