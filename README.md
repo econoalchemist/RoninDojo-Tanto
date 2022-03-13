@@ -33,7 +33,7 @@ All together the Tanto includes:
 There are a couple of upgrades in the works for both the Tanto hardware and the RoninDojo UI software:
 
 - The URL for the Whirlpool GUI will be available through the dashboard web interface so that you no longer have to access it through the SSH terminal. 
-- The LED strip installed on the front of the Tanto will be upgraded to a custom LED PCB board which features not only the current red color but also green and blue to offer different kinds of status indicators in future releases. This upgrade will be included in all batch 2 Tantos. For batch 1 Tanto owners, this upgrade will be shipped free of charge. Here is what the upgraded LED PCB board will look like:
+- The LED strip installed on the front of the Tanto will be upgraded to a custom LED PCB board which features not only the current red color but also green and blue to offer different kinds of status indicators in future releases. This upgrade will be included in all batch 2 Tantos. For batch 1 Tanto owners, this upgrade will be shipped free of charge. Here is what the upgraded LED PCB board will look like, the final product will be colored black to match the Tanto:
 
 <p align="center">
  <img src="assets/upgrade00.png">
