@@ -29,7 +29,21 @@ All together the Tanto includes:
 <p align="center">
   <img src="assets/Tanto03.jpg">
   </p>
-  
+
+There are a couple of upgrades in the works for both the Tanto hardware and the RoninDojo UI software:
+
+- The URL for the Whirlpool GUI will be available through the dashboard web interface so that you no longer have to access it through the SSH terminal. 
+- The LED strip installed on the front of the Tanto will be upgraded to a custom LED PCB board which features not only the current red color but also green and blue to offer different kinds of status indicators in future releases. This upgrade will be included in all batch 2 Tantos. For batch 1 Tanto owners, this upgrade will be shipped free of charge. Here is what the upgraded LED PCB board will look like:
+
+<p align="center">
+ <img src="assets/upgrade00.png">
+  <img src="assets/upgrade01.png">
+  </p>
+
+As mentioned above, [this guide](https://bitcoinmagazine.com/guides/how-to-bitcoin-seed-backup-roninsteel) demonstrates the RoninSteel but here are a few pictures to give you an idea of what it is and how it works. 
+
+Each RoninSteel kit includes the blank steel plate, multiple template stickers for the seed phrase and passphrase (one for each side of the plate). The characters can be marked with permanent marker first and then stamped with the included spring-loaded punch. 
+
 <p align="center">
   <img width="450" src="assets/IMG_5983.JPG">
   <img width="450" src="assets/IMG_E6007.JPG">
@@ -40,11 +54,14 @@ All together the Tanto includes:
   <img width="450" src="assets/IMG_6028.JPG">
  </p>
  
+Then the sticker can be peeled off so that the information stamped on the plate is unknown with out using another template sticker for the recovery process. This way if anyone finds your backup plate then they will not know the information it contains. 
+ 
  <p align="center">
   <img width="450" src="assets/IMG_E6015.JPG">
   <img width="450" src="assets/IMG_E6016.JPG">
  </p> 
  
+ There is also a tamper evident envelope included so you can rest assured no one has accessed the plate. The plate is also subjected to a fire test in the full guide. 
   <p align="center">
   <img width="450" src="assets/IMG_E6017.JPG">
   <img width="450" src="assets/IMG_E6020.JPG">
